@@ -1,0 +1,1 @@
+docker run --rm alpine:3.12 cat /etc/os-release
